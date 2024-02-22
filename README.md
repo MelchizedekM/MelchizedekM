@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Ruiming (Raymon) Min</h1>
-<h3 align="center">A UG-student to CS and GitHub, currently taking undergraduate courses in Hong Kong</h3>
+<h3 align="center">A UG-student in Hong Kong</h3>
 
-- 🔭 I’m currently working on **Baseline of Synthetic Data**
+- 🔭 I’m currently working on **Synthetic Data**
 
 - 🌱 I’m currently learning **Math and Computer Science**
 
