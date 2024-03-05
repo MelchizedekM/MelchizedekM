@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Math and Computer Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MelchizedekM](https://github.com/MelchizedekM)
-
-- 💬 Ask me about **Anything I know**
+- 👨‍💻 All of my projects are available at [https://github.com/RaymonMin](https://github.com/RaymonMin)
 
 - 📫 How to reach me **rmin@connect.ust.hk**
 
