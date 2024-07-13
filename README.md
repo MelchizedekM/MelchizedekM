@@ -3,7 +3,7 @@
 
 - 🖥 My personal website is at [https://ruimingmin.com](https://ruimingmin.com).
 
-- 🔭 I’m currently working on **Synthetic Data in Generation Model and Policy Learning**.
+- 🔭 I’m currently working on **Synthetic Data in Generation Model** and **Policy Learning**.
 
 - 🌱 I’m currently learning **Math and Computer Science**.
 
