@@ -1,13 +1,15 @@
 <h1 align="center">Hey! I'm Ruiming (Raymon) Min</h1>
 <h3 align="center">A UG-student in Hong Kong</h3>
 
-- 🔭 I’m currently working on **Synthetic Data**
+- 🖥 My personal website is at [https://ruimingmin.com](https://ruimingmin.com).
 
-- 🌱 I’m currently learning **Math and Computer Science**
+- 🔭 I’m currently working on **Synthetic Data in Generation Model and Policy Learning**.
+
+- 🌱 I’m currently learning **Math and Computer Science**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/RaymonMin](https://github.com/RaymonMin)
 
-- 📫 How to reach me **rmin@connect.ust.hk**
+- 📫 How to reach me **rmin@connect.ust.hk** or **raymon@ruimingmin.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
