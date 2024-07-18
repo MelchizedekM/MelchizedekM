@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Ruiming (Raymon) Min</h1>
 <h3 align="center">A UG-student in Hong Kong</h3>
 
-- 🖥 My personal website is at [https://ruimingmin.com](https://ruimingmin.com).
+- 🖥 My personal website is at [https://ruimingmin.com](https://ruimingmin.com), you can know me more though this website.
 
 - 🔭 I’m currently working on **Synthetic Data in Generation Model** and **Policy Learning**.
 
